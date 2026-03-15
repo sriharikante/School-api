@@ -79,6 +79,7 @@ app.get('/listSchools', async (request, response) => {
         response.status(500).json({ error: "Failed to fetch schools from the database." });
     }
 });
-app.listen(3000, () => {
-    console.log("Server is running on port 3000");
+const port = process.env.PORT || 3000;
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
 });
