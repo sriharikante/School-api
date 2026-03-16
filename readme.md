@@ -1,8 +1,8 @@
-# School API Assessment
+# School API
 
 This is a simple API built with Node.js and Express that lets you add schools to a database and find the nearest schools using coordinates.
 
-## 📌 Required Deliverables
+## Source Code and Live API links 
 
 **1. Source Code Repository**
 - https://github.com/sriharikante/School-api
@@ -12,8 +12,8 @@ This is a simple API built with Node.js and Express that lets you add schools to
 - **Add a School (POST):** `https://school-api-gu2s.onrender.com/addSchool`
 - **Find Nearest Schools (GET):** `https://school-api-gu2s.onrender.com/listSchools?latitude=17.4350&longitude=78.3850`
 
-**3. Postman Collection**
-- The Postman collection (`.json` file) is attached to my submission email. You can import it directly into Postman to test the live endpoints.
+**3.Postman Collection**
+ https://kantesrihari1-8078502.postman.co/workspace/srihari-k's-Workspace~a4d13b14-93fe-41ca-8d70-b3f932d1b9a3/collection/52740553-f9f67d7d-e8ab-4d34-84ce-e144663f78e1?action=share&source=copy-link&creator=52740553
 
 ---
 
